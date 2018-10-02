@@ -1,0 +1,150 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: blue;
+    color: white;
+    height: 40px;
+}
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: white;
+    background: red;
+    height: 40px;
+}
+div{
+    padding: 20px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+.tituloh1{
+    text-align: center;
+}
+h2{
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
+h3{
+    margin: 5px 10px;
+}
+ol{
+    padding: 0 5px;
+}
+
+.letrasdiferentes{
+    margin: 10px;
+}
+.letrasdiferentesh1{
+    margin: 10px;
+    text-align: center;
+}
+.sobre{
+    margin: 10px 100px;
+    padding: 10px 10px 10px 10px;
+    width: 500px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    float: left;
+    font-size: 15px;
+    box-shadow: 1px 1px 20px #000;
+}
+.periodo{
+    margin: 10px -5px; 
+    padding: 10px 40px;
+    width: 500px;
+    height: 300px;
+    border: 1px solid gainsboro;
+    float: left;
+    box-shadow: 1px 1px 20px #000;
+}
+.periodo2{
+    margin: 10px 60px; 
+    padding: 10px;
+    width: 400px;
+    height: 75px;
+    border: 1px solid gainsboro;
+    float: right;
+}
+.ampulheta{
+    width: 80px;
+    height: 80px;
+    float: left;
+    padding: 0 10px;
+}
+.duracao{
+    margin: 5px 60px; 
+    padding: 10px;
+    width: 400px;
+    height: 75px;
+    border: 1px solid gainsboro;
+    float: right;
+}
+.calendario{
+    width: 80px;
+    height: 80px;
+    float: left;
+    padding: 0 10px;
+}
+.matrizcurricular{
+    text-align: center;
+    margin: 20px 100px;
+    padding: 20px 10px;
+    width: 1175px;
+    height: 700px;
+    border: 1px solid gainsboro;
+    float: left;
+    box-shadow: 1px 1px 20px #000;
+}
+.coordenador{
+    margin: 10px 100px 80px;
+    padding: 20px 10px;
+    width: 1175px;
+    height: 600px;
+    border: 1px solid gainsboro;
+    float: left;
+    box-shadow: 1px 1px 20px #000;  
+}
+.foto{
+    float: left;
+    margin:20px 50px;
+    height: 450px;
+    box-shadow: 1px 1px 20px #000;
+}
+.descricaocoordenador{
+    text-align: left;
+    margin: 20px 10px; 
+    padding: 10px;
+    width: 600px;
+    height: 400px;
+    border: 1px solid gainsboro;
+    float: left;
+    box-shadow: 1px 1px 20px #000;  
+}
+.subtitulo{
+    text-align: center;
+}
+.vazio{
+    border-left-style: hidden;
+    border-top-style: hidden;
+    background-color: white;
+}
+table{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    border-collapse: collapse;
+    background-color: cornsilk;
+}
+.cortabela{
+    background-color: rgb(0, 247, 255);
+}
+
