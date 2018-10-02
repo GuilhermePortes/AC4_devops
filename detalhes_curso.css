@@ -137,6 +137,7 @@ ol{
 }
 .subtitulo{
     text-align: center;
+    font-style: italic;
 }
 .vazio{
     border-left-style: hidden;
