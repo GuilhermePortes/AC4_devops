@@ -18,14 +18,14 @@ body{
     color: white;
 }
 
-#img_impacta_header{
+.img_impacta_header{
     margin: 20px 20px;
     width: 250px;
     height: 60px;
     float: left;
 }
 
-#texto{
+.texto{
     font-family: 'Arial',sans-serif;
     color: black;
     border: 1px solid black;
@@ -52,7 +52,7 @@ img{
     display: block;
 }
 
-#grupo{
+.grupo{
     margin: 5px auto;
     display: block;
     box-shadow: 1px 1px 20px #000;
