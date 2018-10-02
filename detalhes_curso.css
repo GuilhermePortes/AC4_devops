@@ -10,14 +10,14 @@ footer {
     color: white;
     height: 40px;
 }
-header {
+header{
     width: 100%;
     position: fixed;
     top: 0;
     left: 0;
     color: white;
-    background: red;
-    height: 40px;
+    background: lightblue;
+    height: 100px;
 }
 div{
     padding: 20px 10px 10px 10px;
