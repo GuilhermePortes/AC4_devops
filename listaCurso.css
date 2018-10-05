@@ -1,6 +1,12 @@
 html{
 	background-color: #0A0A2A;
 }
+.img_impacta_header{
+    margin: 1px;
+    width: 250px;
+    height: 60px;
+    float: left;
+}
 h1{
     margin: 10px 50px; 
     padding: 10px;
